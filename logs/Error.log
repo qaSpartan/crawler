@@ -1,0 +1,13 @@
+[ERROR] 2018-05-25 17:36:17.233 [main] Logger - Socket closed
+[ERROR] 2018-05-25 17:58:43.839 [main] Logger - Exception - https://www.homecentre.com/sa/en/livingroom-sofasandarmchairs-sofasets?q=index%3Aprice-revers  HTTP error fetching URL
+[ERROR] 2018-05-25 18:18:04.265 [main] Logger - Exception - https://www.homecentre.com/sa/ar/livingroom-sofasandarmchairs-sofasets?q=index%3Aprice-revers  HTTP error fetching URL
+[ERROR] 2018-05-25 18:50:29.099 [main] Logger - Exception - https://www.babyshopstores.com/sa/en/c/BABYSHOP-Juniors-Lisbon-Baby-Crib/p/F01-5003A-Multicolour  HTTP error fetching URL
+[ERROR] 2018-05-25 19:13:23.240 [main] Logger - Exception - https://www.splashfashions.com/ae/en/  null
+[ERROR] 2018-05-25 19:13:28.979 [main] Logger - Exception - https://www.splashfashions.com/ae/ar/  null
+[ERROR] 2018-05-25 19:13:33.172 [main] Logger - Exception - https://www.splashfashions.com/ae/en/register  null
+[ERROR] 2018-05-25 19:13:35.435 [main] Logger - Exception - https://www.splashfashions.com/ae/en/login  null
+[ERROR] 2018-05-25 19:13:41.262 [main] Logger - Exception - https://www.splashfashions.com/ae/en/department/women  null
+[ERROR] 2018-05-25 19:13:47.201 [main] Logger - Exception - https://www.splashfashions.com/ae/en/c/women-regular-tops  null
+[ERROR] 2018-05-25 19:46:09.014 [main] Logger - Exception - https://www.centrepointstores.com/ae/en/c/cphome-category-homefurnishings-bedding-blanketsandquilts?q=concept.en%3Alifestyle&v=1>Blankets and Quilts</a></li>
+        <li><a href=  Illegal character in URL
+[ERROR] 2018-05-25 19:50:34.486 [main] Logger - Exception - https://www.centrepointstores.com/ae/en/c/cpmen-regular-tops-vests?q=concept.en%3Asplash  HTTP error fetching URL
